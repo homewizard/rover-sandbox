@@ -1,0 +1,2 @@
+docker.io/bitnami/mongodb:6.0.2-debian-11-r1
+quay.io/argoproj/argocd:v2.7.2
